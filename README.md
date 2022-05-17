@@ -3,7 +3,7 @@
 <img src="https://img.segye.com/content/image/2017/01/06/20170106512141.jpg" alt="네잎클로버 사진">
 
 <hr>
-<h2>여기는 7조의 첫 git communication 공간입니다. 신기하다!</h2>
+<h3>여기는 7조의 첫 git communication 공간입니다. 신기하다!</h3>
 <p>안녕하세요 7조 박기만입니다!</p>
 <h3>기만이의 야식 불고기를 위하여 - 혜영 0514 16:50</h3>
 <p>이번엔 잘 되길....</p>
